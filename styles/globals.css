@@ -24,3 +24,11 @@ a {
     background: black;
   }
 }
+
+.red {
+  background-color: crimson;
+}
+
+.blue {
+  background-color: aqua;
+}
